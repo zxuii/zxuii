@@ -1,10 +1,13 @@
-## My gw portofolio
+### My gw portofolio
 
-Umm, sebenarnya bingung mau ngomong apaan di sini yak, karena sebenarnya cuma mengubah template dari `Vite` sebelumnya sih wkwk -- bisa kelupaan, aneh banget yak.
+Halo semuanya! Aku punya nama btw, yaitu Hafidh Musyaffa!
+Aku suka sekali dengan nickname yang aku buat sendiri, yaitu `Zxuiii` / `Zxuii` / `Zxui`. ya... variatif, setidaknya itu menurutku.
 
-## Melihat websitenya dimana sih?
+## Apa aja sih yang aku lakukan?
 
-Untuk websitenya sendiri belum di deploy sih, males soalnya... nanti bakalan ku deploy pake firebase hosting aja, yep, static site gratisan... yang penting domain cakep dan gampang setupnya aja sih...
+Untuk saat ini, yang terlihat hanyalah ya portofolio ini, serta website yang tersedia di https://belumdideploywkwk.web.app dan juga hanya proyek iseng flappy-bird yang di buat pake `Rust` dengan library `macroquad` -- buat yang ga tau, `macroquad` itu library yang mirip-mirip seperti raylib (`C`) yang fungsinya sebagai 'utility' library untuk graphics things ketimbang game engine sungguhan karena kebanyakan hal tentang physics, complex collision semuanya dihandle secara manual.
+
+BTW https://github.com/zxuii/flappy.rs
 
 ## Contact me!
 
