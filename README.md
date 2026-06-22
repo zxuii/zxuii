@@ -1,6 +1,6 @@
 ### My gw portofolio
 
-Halo semuanya! Aku punya nama btw, yaitu Hafidh Musyaffa!
+Halo semuanya! Aku punya nama btw, yaitu Hafidh Musyaffa! Dan sekarang aku seharusnya masih kelas 10 SMK!
 Aku suka sekali dengan nickname yang aku buat sendiri, yaitu `Zxuiii` / `Zxuii` / `Zxui`. ya... variatif, setidaknya itu menurutku.
 
 ## Apa aja sih yang aku lakukan?
