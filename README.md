@@ -5,7 +5,7 @@ Aku suka sekali dengan nickname yang aku buat sendiri, yaitu `Zxuiii` / `Zxuii` 
 
 ## Apa aja sih yang aku lakukan?
 
-Untuk saat ini, yang terlihat hanyalah ya portofolio ini, serta website yang tersedia di https://belumdideploywkwk.web.app dan juga hanya proyek iseng flappy-bird yang di buat pake `Rust` dengan library `macroquad` -- buat yang ga tau, `macroquad` itu library yang mirip-mirip seperti raylib (`C`) yang fungsinya sebagai 'utility' library untuk graphics things ketimbang game engine sungguhan karena kebanyakan hal tentang physics, complex collision semuanya dihandle secara manual.
+Untuk saat ini, yang terlihat hanyalah ya portofolio ini, serta website yang tersedia di [zxuithings.web.app](https://zxuithings.web.app/) dan juga hanya proyek iseng flappy-bird yang di buat pake `Rust` dengan library `macroquad` -- buat yang ga tau, `macroquad` itu library yang mirip-mirip seperti raylib (`C`) yang fungsinya sebagai 'utility' library untuk graphics things ketimbang game engine sungguhan karena kebanyakan hal tentang physics, complex collision semuanya dihandle secara manual.
 
 BTW https://github.com/zxuii/flappy.rs
 
