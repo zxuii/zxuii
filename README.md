@@ -1,13 +1,18 @@
 # My gw portofolio
 
-Halo semuanya! Aku punya nama btw, yaitu Hafidh Musyaffa! Dan sekarang aku seharusnya masih kelas 10 SMK!
+Halo semuanya! Aku punya nama btw, yaitu Hafidh Musyaffa! Dan sekarang aku masih kelas 10 SMK Jurusan RPL/PPLG!
 Aku suka sekali dengan nickname yang aku buat sendiri, yaitu `Zxuiii` / `Zxuii` / `Zxui`. ya... variatif, setidaknya itu menurutku.
 
 ## Apa aja sih yang aku lakukan?
 
-Untuk saat ini, yang terlihat hanyalah ya portofolio ini, serta website yang tersedia di [zxuithings.web.app](https://zxuithings.web.app/) dan juga hanya proyek iseng flappy-bird yang di buat pake `Rust` dengan library `macroquad` -- buat yang ga tau, `macroquad` itu library yang mirip-mirip seperti raylib (`C`) yang fungsinya sebagai 'utility' library untuk graphics things ketimbang game engine sungguhan karena kebanyakan hal tentang physics, complex collision semuanya dihandle secara manual.
+Sejauh ini yang aku lakukan antara lain seperti berikut:
 
-BTW https://github.com/zxuii/flappy.rs
+- Membuat bahasa pemrogramna sendiri bernama [Zxui Programming Language](https://github.com/zxuii/zxui-lang) FYI, saat ini aku dalam tahap transisi dari menggunakan bahasa `python` ke `rust` agar mendapatkan performa yang lebih bagus walaupun masih sekedar `AST-Walk` interpreter.
+- Membuat cloningan game [Flappy Bird](https://github.com/zxuii/flappy.rs) di `rust` menggunakan `macroquad` dan telah di dokumentasikan di youtube channel [@TelurTerbulat](https://youtube.com/@TelurTerbulat).
+- Membuat aplikasi stopwatch sederhana menggunakan bahasa pemrograman `rust` dan pakai library `macroquad` serta `chrono`.
+- Membuat portofolio sederhana seperti yang aku buat di proyek ini itu sendiri menggunakan ReactTS (walaupun ini sangat lah jelek karena baru pertama kali aku menulis di React).
+
+Ya bisa dibilang disini aku itu masih pemula dalam dunia pemrograman ini, baru saja aku mulai mengekspos apa saja yang aku lakukan akhir akhir ini sih, haha... soalnya aku sebelumnya agak terlalu malas untuk membuat akun github dan ini dan itu, tapi sekarang aku ingin terus fokus untuk update! see ya!
 
 ## Contact me!
 
