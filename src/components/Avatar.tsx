@@ -1,4 +1,4 @@
-import pfp from "../assets/profile_photo.jpg";
+import pfp from "../assets/pfp.png";
 
 export function Avatar() {
   return (
@@ -8,7 +8,7 @@ export function Avatar() {
       <p>
         AKA. @
         <a href="https://www.youtube.com/channel/UCjfYPhRLoUsIGYghnd_hIUA">
-          KentangCeplok
+            TelurTerbulat
         </a>{" "}
         & @<a href="https://www.youtube.com/@zxuiiii">Zxuiii</a>
       </p>
