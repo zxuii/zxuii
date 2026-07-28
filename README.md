@@ -1,6 +1,6 @@
 # Profil Aku Gw
 
-Hai halooo~! Namaku Hafidh Musyaffa dan sekarang bersekolah di SMKN 2 Kota Jambi kelas X-PPLG. Kenapa pakai nickname `zxuii`? karena nick `zxui` sudah kepake... whatever.
+Hai halooo~! Namaku Hafidh Musyaffa dan sekarang bersekolah di SMKN 2 Kota Jambi kelas X-PPLG. Kenapa pakai nickname `zxuii`? karena nick `zxui` sudah kepake... whatever. Aku ada website portofolio di [zxuithings](https://zxuithings.web.app).
 
 ## Apa saja yang aku lakukan?
 
